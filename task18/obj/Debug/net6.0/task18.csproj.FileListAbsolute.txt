@@ -1,0 +1,15 @@
+/Users/andrei.yakovenko/Desktop/Group1/task18/bin/Debug/net6.0/task18
+/Users/andrei.yakovenko/Desktop/Group1/task18/bin/Debug/net6.0/task18.deps.json
+/Users/andrei.yakovenko/Desktop/Group1/task18/bin/Debug/net6.0/task18.runtimeconfig.json
+/Users/andrei.yakovenko/Desktop/Group1/task18/bin/Debug/net6.0/task18.dll
+/Users/andrei.yakovenko/Desktop/Group1/task18/bin/Debug/net6.0/task18.pdb
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.csproj.AssemblyReference.cache
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.AssemblyInfoInputs.cache
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.AssemblyInfo.cs
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.csproj.CoreCompileInputs.cache
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.dll
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/refint/task18.dll
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.pdb
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/task18.genruntimeconfig.cache
+/Users/andrei.yakovenko/Desktop/Group1/task18/obj/Debug/net6.0/ref/task18.dll
