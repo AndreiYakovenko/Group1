@@ -1,0 +1,15 @@
+/Users/andrei.yakovenko/Desktop/Group1/task22/bin/Debug/net6.0/task22
+/Users/andrei.yakovenko/Desktop/Group1/task22/bin/Debug/net6.0/task22.deps.json
+/Users/andrei.yakovenko/Desktop/Group1/task22/bin/Debug/net6.0/task22.runtimeconfig.json
+/Users/andrei.yakovenko/Desktop/Group1/task22/bin/Debug/net6.0/task22.dll
+/Users/andrei.yakovenko/Desktop/Group1/task22/bin/Debug/net6.0/task22.pdb
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.csproj.AssemblyReference.cache
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.AssemblyInfoInputs.cache
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.AssemblyInfo.cs
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.csproj.CoreCompileInputs.cache
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.dll
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/refint/task22.dll
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.pdb
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/task22.genruntimeconfig.cache
+/Users/andrei.yakovenko/Desktop/Group1/task22/obj/Debug/net6.0/ref/task22.dll
