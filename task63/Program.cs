@@ -15,8 +15,9 @@
 Console.WriteLine("Please enter number");
 int N = Convert.ToInt32(Console.ReadLine());
 
-int Row(num)
+string Row(int N)
 {
-    int numbers
-    if (num == 1)
+    if (N == 1) return "1";
+    return Row(N-1) + " " + N;
 }   
+Console.WriteLine(Row(N));
