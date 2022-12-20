@@ -4,7 +4,7 @@
 
 Console.WriteLine("Enter quarter number");
 int n = Convert.ToInt32(Console.ReadLine());
-switch(n)
+switch (n)
 {
     case 1:
         Console.WriteLine("Range of possible coordinates - x = 0+ y = 0+");
