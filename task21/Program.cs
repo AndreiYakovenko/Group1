@@ -10,5 +10,5 @@ Console.WriteLine("Enter coordinate X second segment");
 int x2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter coordinate Y second segment");
 int y2 = Convert.ToInt32(Console.ReadLine());
-double distance = Math.Round(Math.Sqrt((Math.Pow((x2-x1), 2)) + Math.Pow((y2-y1), 2)), 3);
+double distance = Math.Round(Math.Sqrt((Math.Pow((x2 - x1), 2)) + Math.Pow((y2 - y1), 2)), 3);
 Console.WriteLine(distance);
