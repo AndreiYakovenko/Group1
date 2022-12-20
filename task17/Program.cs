@@ -6,18 +6,18 @@ Console.WriteLine("Enter coordinate X");
 int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter coordinate Y");
 int y = Convert.ToInt32(Console.ReadLine());
-switch((x, y))
+switch ((x, y))
 {
-    case (>0, >0):
+    case ( > 0, > 0):
         Console.WriteLine("The point is in the first quarter");
         break;
-    case (<0, >0):
+    case ( < 0, > 0):
         Console.WriteLine("The point is in the second quarter");
         break;
-    case (<0, <0):
+    case ( < 0, < 0):
         Console.WriteLine("The point is in the third quarter");
         break;
-    case (>0, <0):
+    case ( > 0, < 0):
         Console.WriteLine("The point is in the fourth quarter");
         break;
 }
