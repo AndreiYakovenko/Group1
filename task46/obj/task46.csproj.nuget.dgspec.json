@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrei.yakovenko/Desktop/Group1/task23/task23.csproj": {}
+    "/Users/andrei.yakovenko/Desktop/Group1/task46/task46.csproj": {}
   },
   "projects": {
-    "/Users/andrei.yakovenko/Desktop/Group1/task23/task23.csproj": {
+    "/Users/andrei.yakovenko/Desktop/Group1/task46/task46.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrei.yakovenko/Desktop/Group1/task23/task23.csproj",
-        "projectName": "task23",
-        "projectPath": "/Users/andrei.yakovenko/Desktop/Group1/task23/task23.csproj",
+        "projectUniqueName": "/Users/andrei.yakovenko/Desktop/Group1/task46/task46.csproj",
+        "projectName": "task46",
+        "projectPath": "/Users/andrei.yakovenko/Desktop/Group1/task46/task46.csproj",
         "packagesPath": "/Users/andrei.yakovenko/.nuget/packages/",
-        "outputPath": "/Users/andrei.yakovenko/Desktop/Group1/task23/obj/",
+        "outputPath": "/Users/andrei.yakovenko/Desktop/Group1/task46/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andrei.yakovenko/.nuget/NuGet/NuGet.Config"
