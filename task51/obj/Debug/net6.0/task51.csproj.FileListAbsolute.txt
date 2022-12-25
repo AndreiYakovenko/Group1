@@ -1,0 +1,15 @@
+/Users/andrei.yakovenko/Desktop/Group1/task51/bin/Debug/net6.0/task51
+/Users/andrei.yakovenko/Desktop/Group1/task51/bin/Debug/net6.0/task51.deps.json
+/Users/andrei.yakovenko/Desktop/Group1/task51/bin/Debug/net6.0/task51.runtimeconfig.json
+/Users/andrei.yakovenko/Desktop/Group1/task51/bin/Debug/net6.0/task51.dll
+/Users/andrei.yakovenko/Desktop/Group1/task51/bin/Debug/net6.0/task51.pdb
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.csproj.AssemblyReference.cache
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.AssemblyInfoInputs.cache
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.AssemblyInfo.cs
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.csproj.CoreCompileInputs.cache
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.dll
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/refint/task51.dll
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.pdb
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/task51.genruntimeconfig.cache
+/Users/andrei.yakovenko/Desktop/Group1/task51/obj/Debug/net6.0/ref/task51.dll
